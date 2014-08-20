@@ -1,0 +1,4 @@
+theatrecms
+==========
+
+TheatreCMS Plugin
